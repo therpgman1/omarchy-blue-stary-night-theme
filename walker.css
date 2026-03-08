@@ -4,3 +4,11 @@
 @define-color border #5060ad;
 @define-color foreground #ffffff;
 @define-color background #030614;
+
+.box-wrapper {
+  border-radius: 20px;
+}
+
+.search-container {
+  border-radius: 10px;
+}
